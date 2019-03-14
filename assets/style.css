@@ -4,6 +4,7 @@ h1 {
 h1:hover {
   text-decoration: underline;
   letter-spacing: 1.5;
+  cursor: pointer;
 }
 
 body {

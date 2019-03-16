@@ -15,8 +15,12 @@ ul li {
   list-style-type: none;
 }
 
+.modal {
+  background-color: azure;
+}
+
 body {
-  background-color: lightgraygit;
+  background-color: lightgray;
 }
 body h1 {
   color: lightcyan;

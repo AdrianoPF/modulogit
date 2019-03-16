@@ -1,17 +1,9 @@
-h1 {
-  color: blue;
-}
-h1:hover {
-  text-decoration: underline;
-  letter-spacing: 1.5;
-  cursor: pointer;
-}
-
 body {
-  margin: 0;
-  padding: 0;
-  background-color: lightcyan;
-  font-size: 32;
+  background-color: black;
+}
+body h1 {
+  color: lightcyan;
+  text-decoration: underline;
 }
 
 /*# sourceMappingURL=style.css.map */
